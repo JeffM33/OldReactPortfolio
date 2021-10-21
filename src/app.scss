@@ -14,6 +14,7 @@
     background-color: rgb(40, 85, 32);
     position: relative;
     top: 70px;
+    scroll-behavior: smooth;
     scroll-snap-type: y mandatory;
     scrollbar-width: none;
     &::-webkit-scrollbar{
