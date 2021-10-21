@@ -4,6 +4,7 @@ import Contact from './components/Contact/Contact';
 import Portfolio from './components/Portfolio/Portfolio';
 import Works from './components/Works/Works';
 import Intro from './components/Intro/Intro';
+import './app.scss';
 
 
 function App() {
